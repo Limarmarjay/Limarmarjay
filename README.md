@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Limarmarjay
+- 👋 Hi, I’m Aaliyah Umoru
 - 👀 I’m interested in Software Development, Product Management, Machine Learning, and UI Design.
 - 🌱 I’m currently learning about machine learning models, data structures, and algorithms.
 - 💞️ I’m looking to collaborate on open-source, technical projects, and competitions
